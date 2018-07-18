@@ -19,3 +19,4 @@ LEFT - Move paddle left
 RIGHT - Move paddle right
 SELECT - Reset game to title screen
 
+A Game Boy emulator is required to run this game
